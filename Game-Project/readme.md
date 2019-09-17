@@ -1,10 +1,10 @@
 ## Game-Project
 An independently made game project. 
-### AnimationEditor
+### /AnimationEditor
 Contains the animation editor, used for creating animations to be used within the game.
-### MapEditor
+### /MapEditor
 Contains the map editor, used for creating maps to be used within the game.
-### MyXMLData
+### /MyXMLData
 Contains XML data classes.
-### SuperMetroid
+### /SuperMetroid
 Contains the main game project.

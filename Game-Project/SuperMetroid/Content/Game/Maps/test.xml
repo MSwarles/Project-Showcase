@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:WorldClasses="SuperMetroid.WorldClasses">
+  <Asset Type="WorldClasses:TileMapData">
+    <MapLayers />
+    <TileSets />
+    <MapName>Map Editor  -  test.map</MapName>
+    <TilesWide>40</TilesWide>
+    <TilesHigh>30</TilesHigh>
+    <TileWidth>16</TileWidth>
+    <TileHeight>16</TileHeight>
+  </Asset>
+</XnaContent>

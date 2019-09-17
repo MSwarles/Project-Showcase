@@ -1,5 +1,5 @@
 # Project-Showcase
-Repository for displaying projects and code.
+Repository for displaying projects and code that I've created.
 ## /CSC-133
 Contains project made during a CSUS class: CSC-133.  
 Created using **Java**.

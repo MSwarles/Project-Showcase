@@ -1,5 +1,5 @@
 ## Game-Project
-An independently made game project. 
+An independently made game project, created using C#. 
 ### /AnimationEditor
 Contains the animation editor, used for creating animations to be used within the game.
 ### /MapEditor

@@ -1,5 +1,5 @@
 ## Game-Project
-An independently made game project, created using C#. 
+An independently made / self-developed 2D platforming game project; created using C# and the XNA/Monogame framework. 
 ### /AnimationEditor
 Contains the animation editor, used for creating animations to be used within the game.
 ### /MapEditor

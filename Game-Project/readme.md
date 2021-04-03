@@ -1,5 +1,5 @@
 ## Game-Project
-An independently made / self-developed 2D platforming game project created with the main intent of learning to become a better programmer.
+An independently made / self-developed 2D platforming game project created to improve my skills as a software engineer.
 ### /AnimationEditor
 Contains the animation editor, used for creating animations to be used within the game; created using Windows Forms.
 ### /MapEditor
